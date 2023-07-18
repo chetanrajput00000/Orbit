@@ -36,9 +36,9 @@ body {
 }
 
 .earth {
-    top: 5em;
-    left: 5em;
-    width: 30em;
+    top: 4em;
+    left: 4em;
+    width: 28em;
     height: 30em;
     animation: orbit 36.5s linear infinite;
 }
