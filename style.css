@@ -40,7 +40,7 @@ body {
     left: 4em;
     width: 28em;
     height: 30em;
-    animation: orbit 36.5s linear infinite;
+    animation: orbit 18.5s linear infinite;
 }
 
 .moon {
